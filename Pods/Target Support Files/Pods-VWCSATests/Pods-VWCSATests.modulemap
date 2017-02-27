@@ -1,0 +1,6 @@
+framework module Pods_VWCSATests {
+  umbrella header "Pods-VWCSATests-umbrella.h"
+
+  export *
+  module * { export * }
+}
